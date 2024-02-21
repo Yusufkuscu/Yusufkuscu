@@ -1,4 +1,4 @@
-## [![Hello World, I'm Yusuf!](.github/wallpaper 1920x1080.gif)](https://github.com/Yusufkuscu)
+## [![Hello World, I'm Yusuf!](.github/bg.gif)](https://github.com/Yusufkuscu)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusufkuscu/) &nbsp;
