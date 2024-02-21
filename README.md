@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Hello World, I'm Yusuf!](assets/header.gif)](https://github.com/Yusufkuscu)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusufkuscu/) &nbsp;
+
+
+## 💻 My Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,mysql,git,github)](https://skillicons.dev)
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yusufkuscu&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufkuscu&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
