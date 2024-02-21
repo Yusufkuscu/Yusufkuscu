@@ -24,7 +24,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 
 ## 💻 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,mysql)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
