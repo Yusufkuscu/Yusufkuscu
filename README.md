@@ -1,27 +1,9 @@
-### Hi there 👋
-
-<!--
-**Yusufkuscu/Yusufkuscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 [![Hello World, I'm Yusuf!](assets/header.gif)](https://github.com/Yusufkuscu)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusufkuscu/) &nbsp;
 
+<div align="center">
 
 👨🏻‍💻 About Me:
 I am a computer engineering student, and I am developing projects on the path to becoming a full-stack developer. I am proficient in programming languages such as Java, C++, Python, and JavaScript, as well as MySQL for database management. I am actively working on advancing in the web development field and enhancing my software skills.
@@ -30,10 +12,13 @@ In addition to my hardware internship experience, I am familiar with Raspberry P
 
 Keeping up with the latest developments in the software world and staying constantly updated in this field is a passion for me.
 
+<div align="center">
 
 ## 💻 My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,mysql)](https://skillicons.dev)
 
+
+<div align="center">
 
 ## 🏆 My Stats:
 
