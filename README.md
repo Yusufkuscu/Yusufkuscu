@@ -23,6 +23,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusufkuscu/) &nbsp;
 
 
+👨🏻‍💻 About Me:
+I am a computer engineering student, and I am developing projects on the path to becoming a full-stack developer. I am proficient in programming languages such as Java, C++, Python, and JavaScript, as well as MySQL for database management. I am actively working on advancing in the web development field and enhancing my software skills.
+
+In addition to my hardware internship experience, I am familiar with Raspberry Pi 4. I strive to continuously improve myself and acquire new skills.
+
+Keeping up with the latest developments in the software world and staying constantly updated in this field is a passion for me.
+
+
 ## 💻 My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,mysql)](https://skillicons.dev)
 
