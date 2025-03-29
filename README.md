@@ -4,6 +4,7 @@
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusufkuscu/) &nbsp;
+[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/YusufKuscu/) &nbsp;
 
 
 
